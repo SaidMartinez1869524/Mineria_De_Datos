@@ -20,3 +20,4 @@
 
 [Preguntas_Tecnica_visualización](https://github.com/GonzalezFcoJavier/Mineria_de_Datos/blob/main/Preguntas.pdf)
 
+[Preguntas_Tecnica_visualización(Resueltas)](https://github.com/GonzalezFcoJavier/Mineria_de_Datos/blob/main/Preguntas_respuesta.pdf)
