@@ -24,4 +24,6 @@
 
 [Ejercicios De Visualización](https://github.com/GonzalezFcoJavier/IntroR/blob/master/Visualizacion_Equipo6.ipynb)
 
+[Ejercicios De Visualización 2](https://github.com/GonzalezFcoJavier/IntroR/blob/master/Visualizacion_2_equipo6.ipynb)
+
 [Segundo avance del PIA ](https://github.com/GonzalezFcoJavier/IntroR/blob/master/AvancePIA_II_Grupo002_Equipo6.ipynb)
