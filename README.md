@@ -21,3 +21,7 @@
 [Preguntas_Tecnica_visualización](https://github.com/GonzalezFcoJavier/Mineria_de_Datos/blob/main/Preguntas.pdf)
 
 [Preguntas_Tecnica_visualización(Resueltas)](https://github.com/GonzalezFcoJavier/Mineria_de_Datos/blob/main/Preguntas_respuesta.pdf)
+
+[Ejercicios De Visualización](https://github.com/GonzalezFcoJavier/IntroR/blob/master/Visualizacion_Equipo6.ipynb)
+
+[Segundo avance del PIA ](https://github.com/GonzalezFcoJavier/IntroR/blob/master/AvancePIA_II_Grupo002_Equipo6.ipynb)
