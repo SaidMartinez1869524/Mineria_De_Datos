@@ -27,3 +27,10 @@
 [Ejercicios De Visualización 2](https://github.com/GonzalezFcoJavier/IntroR/blob/master/Visualizacion_2_equipo6.ipynb)
 
 [Segundo avance del PIA ](https://github.com/GonzalezFcoJavier/IntroR/blob/master/AvancePIA_II_Grupo002_Equipo6.ipynb)
+
+## Fase 3
+
+[Tecnica de Mineria ](https://github.com/RaulFloresR/Mineria_de_Datos/blob/main/tecnicas_de_mineria.ipynb)
+
+[Notebook Final ](https://github.com/RaulFloresR/Mineria_de_Datos/blob/main/Notebook_final.ipynb)
+
